@@ -1,0 +1,1 @@
+# TODO: add qemu command: qemu-system-x86_64 -drive format=raw,file=target/x86_64-nic_os/debug/bootimage-NicOS.bin
